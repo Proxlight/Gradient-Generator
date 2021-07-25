@@ -56,7 +56,7 @@ python App.py
 
 Inspired By : https://cssgradient.io
 
-The instructions contain all the information about installing and using CREATE, along with information for troubleshooting and reporting issues. There is also a video format.
+The instructions contain all the information about installing and using Gradient-Generator, along with information for troubleshooting and reporting issues. There is also a video format.
 
 [Visit Youtube Channel](https://www.youtube.com/channel/UCZY5SODGdRzOeD_lHCzPdKg)  
 [Website](https://proxlight.github.io/)
