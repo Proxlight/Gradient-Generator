@@ -12,7 +12,11 @@
 <b>Gradient Generator</b> is a python tool that lets you create amazing gradient within seconds, It uses Eel module at backend.
 <br>
 
-## ☄️  Advantages of <b>CREATE</b>
+<br>
+
+
+
+## ☄️  Advantages of <b>Gradient-Generator</b>
 
 1. Easy to use
 2. Pre build Gradient
@@ -22,13 +26,6 @@
 <br>
 
 
-## 🦋 Supporting Proxlight Designer
-
-Donate us on Gumroad
-
-<a href="https://gum.co/Deadc" target="_blank"><img src="https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609c31b0a526ef442513e8cc_gumroad.svg" alt="Donate on gumroad" width="50px" ></a>
-
-<br>
 
 ## 🛠  Installing Proxlight Designer
 
