@@ -76,7 +76,7 @@ The possibilities are endless ideas with Gradient-Creator.
 ### Code Generator
 <img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Gradient-Generator/main/2.png">
 
-### Colour Wheel
+### Add Multiple Colours
 <img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Gradient-Generator/main/3.png">
 
 
