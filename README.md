@@ -9,7 +9,7 @@
 
 ## 💡 Introduction
 
-<b>Gradient Generator</b> is a python tool that lets you create amazing gradient within seconds, It uses Eel module.
+<b>Gradient Generator</b> is a python tool that lets you create amazing gradient within seconds, It uses Eel module at backend.
 <br>
 
 ## ☄️  Advantages of <b>CREATE</b>
@@ -57,6 +57,8 @@ python App.py
 
 ## 🔥 Watch Complete Tutorial Here
 
+Inspired By : https://cssgradient.io
+
 The instructions contain all the information about installing and using CREATE, along with information for troubleshooting and reporting issues. There is also a video format.
 
 [Visit Youtube Channel](https://www.youtube.com/channel/UCZY5SODGdRzOeD_lHCzPdKg)  
@@ -71,11 +73,14 @@ ___
 ## 🎯 Examples
 The possibilities are endless ideas with Gradient-Creator.
 
-### Sign up Page
-<img width="467" alt="Example 1" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example1.png">
+### Main Interface
+<img width="467" alt="Example 1" src="https://raw.githubusercontent.com/Proxlight/Gradient-Generator/main/1.png">
 
-### URL cutter
-<img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example2.png">
+### Code Generator
+<img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Gradient-Generator/main/2.png">
+
+### Colour Wheel
+<img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Gradient-Generator/main/3.png">
 
 
 ---
